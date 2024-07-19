@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 ctx.moveTo(0, canvas.height);
                 ctx.quadraticCurveTo(controlX, controlY, x, y); // Create a quadratic curve
                 ctx.strokeStyle = '#E4063A'//'#ef3535';
-                ctx.lineWidth = 3;
+                ctx.lineWidth = 4;
                 ctx.stroke();
 
                 // Draw the plane image
@@ -197,7 +197,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function drawCounter(ctx, multiplier) {
         if (multiplier >= crashPoint){
             if (userCashedOut == 0 || userCashedOut == 3 || userCashedOut == 5 || userCashedOut == 7 || userCashedOut == 9 || placed == 0){
-            ctx.font = 'bolder 34px Arial';
+            ctx.font = 'bolder 44px Arial';
             ctx.fillStyle = 'red';
             ctx.textAlign = 'center';
             ctx.textBaseline = 'middle';
@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 ctx.fillText(`Waiting For Next Round!`, canvas.width / 2, canvas.height / 2);
             }, 5000);
         } else {
-            ctx.font = 'bolder 34px Arial';
+            ctx.font = 'bolder 44px Arial';
             ctx.fillStyle = 'red';
             ctx.textAlign = 'center';
             ctx.textBaseline = 'middle';
