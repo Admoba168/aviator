@@ -138,11 +138,12 @@ button:disabled {
 /*--------------------------*/
 
 .parent-panel {
-    width: 90%;
+    width: 92%;
     background-color: #cccccc6f;
     border-radius: 20px;
     padding: 10px;
     height: 18%;
+    margin-left: 0.5px;
 }
 
 .top-panel {
