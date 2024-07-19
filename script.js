@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 //let y = canvas.height - (multiplierr / 23) * canvas.height + swing + curve;  // Scale the y-coordinate
 
                 t += 0.1; // Increase time for oscillation
-                let swing = Math.sin(t) * 30; // Swinging amplitude
+                let swing = Math.sin(t) * 28; // Swinging amplitude
                 let curve = Math.cos(t / 3) * 40; // Increase curving effect
                 let x = (multiplierr / 11) * canvas.width;  // Scale the x-coordinate
                 let y = canvas.height - (multiplierr / 16) * canvas.height + swing + curve;  // Scale the y-coordinate
