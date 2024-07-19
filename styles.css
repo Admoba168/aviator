@@ -195,7 +195,7 @@ button:disabled {
     margin-bottom: 10px;
     margin-left: 0px;
     height: 14px;
-    width: 42%; /* Reduced length by half */
+    width: 44%; /* Reduced length by half */
     padding-left: 3px;
     padding-right: 3px;
 }
