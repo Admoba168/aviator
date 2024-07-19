@@ -142,7 +142,7 @@ button:disabled {
     background-color: #cccccc6f;
     border-radius: 20px;
     padding: 20px;
-    height: 20%;
+    height: 18%;
 }
 
 .top-panel {
@@ -225,6 +225,7 @@ button:disabled {
     display: flex;
     align-items: flex-start;
     gap: 10px; /* Reduced gap */
+    margin-left: 0px;
 }
 
 .left-buttons, .right-buttons {
