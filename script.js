@@ -135,9 +135,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 //let y = canvas.height - (multiplierr / 23) * canvas.height + swing + curve;  // Scale the y-coordinate
 
                 t += 0.1; // Increase time for oscillation
-                let swing = Math.sin(t) * 40; // Swinging amplitude
+                let swing = Math.sin(t) * 30; // Swinging amplitude
                 let curve = Math.cos(t / 3) * 40; // Increase curving effect
-                let x = (multiplierr / 15) * canvas.width;  // Scale the x-coordinate
+                let x = (multiplierr / 12) * canvas.width;  // Scale the x-coordinate
                 let y = canvas.height - (multiplierr / 16) * canvas.height + swing + curve;  // Scale the y-coordinate
 
                 // Calculate the x and y coordinates, ensuring they don't go past 90% of the canvas dimensions
@@ -207,7 +207,7 @@ document.addEventListener('DOMContentLoaded', () => {
             setTimeout(() => {
                 resetGame();
                 //updateLabelValues();
-                ctx.font = 'bolder 34px Arial';
+                ctx.font = 'bolder 30px Arial';
                 ctx.fillStyle = 'white';
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'middle';
@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', () => {
             setTimeout(() => {
                 resetGame();
                 //updateLabelValues();
-                ctx.font = 'bolder 34px Arial';
+                ctx.font = 'bolder 30px Arial';
                 ctx.fillStyle = 'white';
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'middle';
