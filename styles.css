@@ -204,7 +204,7 @@ button:disabled {
     border-radius: 50%;
     width: 24px;
     height: 24px;
-    padding: -2px;
+    padding: 0px;
     padding-top: -2px;
     font-size: 30px;
     font-weight: bold;
