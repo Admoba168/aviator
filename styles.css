@@ -231,7 +231,7 @@ button:disabled {
 .buttons-container {
     display: flex;
     align-items: flex-start;
-    gap: 10px; /* Reduced gap */
+    gap: 5px; /* Reduced gap */
     margin-left: 0px;
 }
 
