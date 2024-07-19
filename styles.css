@@ -138,11 +138,11 @@ button:disabled {
 /*--------------------------*/
 
 .parent-panel {
-    width: 93%;
+    width: 93.5%;
     background-color: #cccccc6f;
     border-radius: 20px;
     padding: 10px;
-    height: 18%;
+    height: 15%;
     margin-left: 1px;
 }
 
@@ -154,9 +154,9 @@ button:disabled {
     justify-content: center;
     gap: 10px;
     margin-bottom: 20px;
-    width: 75%;
+    width: 77%;
     margin-left: 22px;
-    height: 17px;
+    height: 15px;
 }
 
 .switch-btn {
