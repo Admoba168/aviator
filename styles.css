@@ -154,7 +154,7 @@ button:disabled {
     gap: 10px;
     margin-bottom: 20px;
     width: 75%;
-    margin-left: 32px;
+    margin-left: 22px;
     height: 17px;
 }
 
@@ -191,7 +191,7 @@ button:disabled {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
-    margin-left: 3px;
+    margin-left: 0px;
     height: 16px;
     width: 50%; /* Reduced length by half */
 }
