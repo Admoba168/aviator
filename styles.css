@@ -154,7 +154,7 @@ button:disabled {
     justify-content: center;
     gap: 10px;
     margin-bottom: 20px;
-    width: 81%;
+    width: 82%;
     margin-left: 22px;
     height: 15px;
     padding-left: 0px;
@@ -202,9 +202,9 @@ button:disabled {
     background-color: #fff;
     border: none;
     border-radius: 50%;
-    width: 30px;
-    height: 30px;
-    padding: 7px;
+    width: 20px;
+    height: 20px;
+    padding: 2px;
     padding-top: 0px;
     font-size: 30px;
     font-weight: bold;
