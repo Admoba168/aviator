@@ -257,12 +257,12 @@ button:disabled {
     cursor: pointer;
     font-size: 30px;
     font-weight: bolder;
-    height: 120px; /* Set height to 90px */
-    width: 130px; /* Adjust width as needed */
+    height: 120px; /* Set height to 90px 
+    width: 130px; /* Adjust width as needed 
     align-self: flex-start;
     margin-top: 0;
     margin-left: 0px;
-    /*margin-bottom: 10px; /* Adjust as needed to align with other elements */
+    /*margin-bottom: 10px; /* Adjust as needed to align with other elements 
     position: relative;
     top: -35px; /* Align top with increment panel 
 }*/
