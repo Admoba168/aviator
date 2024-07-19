@@ -276,14 +276,14 @@ button:disabled {
     cursor: pointer;
     font-size: 30px;
     font-weight: bolder;
-    height: 150px; /* Set height to 90px */
-    width: 15%; /* Adjust width as needed */
+    height: 130px; /* Set height to 90px */
+    width: 150px; /* Adjust width as needed */
     align-self: flex-start;
     margin-top: 0;
     margin-left: 0px;
     margin-bottom: 10px; /* Adjust as needed to align with other elements */
     position: relative;
-    top: -55px; /* Align top with increment panel */
+    top: -35px; /* Align top with increment panel */
 }
 
 #result {
