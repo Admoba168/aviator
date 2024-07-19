@@ -191,6 +191,7 @@ button:disabled {
     display: flex;
     align-items: center;
     margin-bottom: 10px;
+    margin-left: 10px;
     height: 16px;
     width: 50%; /* Reduced length by half */
 }
@@ -277,13 +278,13 @@ button:disabled {
     font-size: 30px;
     font-weight: bolder;
     height: 130px; /* Set height to 90px */
-    width: 150px; /* Adjust width as needed */
+    width: 140px; /* Adjust width as needed */
     align-self: flex-start;
     margin-top: 0;
     margin-left: 0px;
     margin-bottom: 10px; /* Adjust as needed to align with other elements */
     position: relative;
-    top: -35px; /* Align top with increment panel */
+    top: -45px; /* Align top with increment panel */
 }
 
 #result {
