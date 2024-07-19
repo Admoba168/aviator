@@ -194,8 +194,8 @@ button:disabled {
     align-items: center;
     margin-bottom: 10px;
     margin-left: 0px;
-    height: 12px;
-    width: 40%; /* Reduced length by half */
+    height: 14px;
+    width: 42%; /* Reduced length by half */
     padding-left: 3px;
     padding-right: 3px;
 }
