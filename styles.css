@@ -231,14 +231,14 @@ button:disabled {
 .buttons-container {
     display: flex;
     align-items: flex-start;
-    gap: 5px; /* Reduced gap */
+    gap: 10px; /* Reduced gap */
     margin-left: 0px;
 }
 
 .left-buttons, .right-buttons {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
 }
 
 .right-buttons {
