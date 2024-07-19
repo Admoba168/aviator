@@ -157,7 +157,7 @@ button:disabled {
     width: 77%;
     margin-left: 22px;
     height: 15px;
-    padding-left: 1px;
+    padding-left: 0px;
 }
 
 .switch-btn {
