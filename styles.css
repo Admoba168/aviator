@@ -194,7 +194,7 @@ button:disabled {
     align-items: center;
     margin-bottom: 10px;
     margin-left: 0px;
-    height: 16px;
+    height: 14px;
     width: 50%; /* Reduced length by half */
 }
 
@@ -205,7 +205,7 @@ button:disabled {
     width: 24px;
     height: 24px;
     padding: 0px;
-    padding-top: -5px;
+    padding-top: 0px;
     font-size: 30px;
     font-weight: bold;
     cursor: pointer;
