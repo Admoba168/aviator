@@ -196,8 +196,8 @@ button:disabled {
     margin-left: 0px;
     height: 14px;
     width: 40%; /* Reduced length by half */
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 3px;
+    padding-right: 3px;
 }
 
 .circle-btn {
