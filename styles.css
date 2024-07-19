@@ -168,7 +168,7 @@ button:disabled {
     align-self: center;
     cursor: pointer;
     width: 130px;
-    height: 25px;
+    height: 20px;
     color: white;
 }
 
@@ -181,7 +181,7 @@ button:disabled {
     align-self: center;
     cursor: pointer;
     width: 130px;
-    height: 25px;
+    height: 20px;
     color: gray;
 }
 
