@@ -257,8 +257,8 @@ button:disabled {
     cursor: pointer;
     font-size: 30px;
     font-weight: bolder;
-    height: 110px; /* Set height to 90px */
-    width: 100px; /* Adjust width as needed */
+    height: 120px; /* Set height to 90px */
+    width: 130px; /* Adjust width as needed */
     align-self: flex-start;
     margin-top: 0;
     margin-left: 0px;
